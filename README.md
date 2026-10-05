@@ -13,7 +13,7 @@ This project implements a quantifiable, four-step probabilistic framework to est
 
 **1. Clone the repository**
 Ensure you have Python 3 installed. Clone this project to your local machine:
-*   `git clone https://github.com/your-username/Password-Strength-Statistical-Model.git`
+*   `git clone https://github.com/henriksebastian/Password-Strength-Statistical-Model.git`
 *   `cd Password-Strength-Statistical-Model`
 
 **2. Download the training corpus**
